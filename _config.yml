@@ -3,6 +3,6 @@ description: "A practical guide to the Hunter class in WoW Classic Era."
 theme: just-the-docs
 
 url: "https://bonherba.github.io"
-baseurl: "/hunters-handbook"
+baseurl: "/classic-hunter-handbook"
 
 search_enabled: true
