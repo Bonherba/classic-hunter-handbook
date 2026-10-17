@@ -1,0 +1,456 @@
+---
+layout: default
+title: "Beast Mastery"
+parent: "Talent Trees"
+nav_order: 2
+permalink: /talents/beast-mastery/
+---
+
+# Beast Mastery
+{: .no_toc }
+
+## On this page
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+As per its name this talent tree focus mostly on improving the animal companion, your pet. Let’s first have a look at a pet’s base stats. Every pet has certain modifiers depending on the family it belongs to, but let’s start with a “neutral” pet, independent of pet family. Whatever family you chose, it will change the numbers – but no drastically in the big picture.
+
+| Stat | Value |
+| --- | --- |
+| Health | 3052 HP |
+| Armor | 4014 |
+| Armor value physical damage reduction against lvl 60 enemy | 42,2% |
+| Base white DPS | 51.25 DPS |
+| Base crit chance | 5 % |
+| Focus regeneration | 5 Focus/sec |
+
+A few additional remarks: Pet attack speed is normalized. Meaning that a faster pet does not more damage than a slower one. Broken Tooth with attack speed of 1 attack/sec hits for the listed 51 damage (on average), while a slower pet with a 2 attack/sec hits for 102 damage with each hit. Your pet possess base stats like players have, like stamina, strength, agility and so on. And as I understand it, they work like on a warrior. Meaning an additional point in strength gives 2 attack power, 20 agility give 1% crit chance, 10 stamina give 100 HP and so on.
+
+Talents in Beast Mastery increase your pet’s offense, defensive, movement speed, focus regeneration and give it additional utility in form of a stun, a powerful dps cooldown and immunity to cc. There are also a few talents which affect the Hunter directly. All in all, Beast Mastery talents can greatly increase your pet’s damage and therefore meaningfully add to your own damage output, even when the Hunter has aquired the highest level of gear. While solo adventuring or in dungeons it can add to your defense, because it can soak up damage with its ability to aggro and tank mobs. But in a raid or pvp setting, it does not meaningfully add to your defensive capabilities and serves mainly as a damage increase.
+
+## Put talent points into Beast Mastery if
+
+- You want to increase your and your animal companion’s damage output
+
+- You want to increase your pet’s survivability so that it can tank enemies in the open world and dungeons and better survive in raids
+
+- You want specific utility like improved aspects (Aspect of the Cheetah, Aspect of the Monkey, Aspect of the Hawk) or a 3s stun that is delivered by your pet (Intimidation)
+
+Let’s evaluate all the Beast Mastery talents.
+
+## Talents
+
+### [Improved Aspect of the Hawk](https://www.wowhead.com/classic/spell=19556)
+
+**What it changes:** At 5/5 it gives your ranged attacks a 5% change to activate Quick Shot for 10s, which increases the speed you can shot your ranged abilities by 30%. Affects the rate at which you shot Auto Attacks and also affects the casting time of Aimed Shot and Multi-Shot.
+
+**My assessment:** A-Tier. The attack speed increase is always 30%, just the change to proc is increased by 1% per point. Always a good choice and especially strong in situations you can freely shot at your target, like on boss fights in raids.
+
+### [Endurance Training](https://www.wowhead.com/classic/spell=19587)
+
+**What it changes:** Increases your pets health by 3% per point up to 15% at 5/5.
+
+**My assessment:** B-Tier. Beast Mastery has a few talents to increase your pets survivability. Endurance Training is generally the most useful of them. It increases your pets overall health pool which helps against all types of damage and also against burst damage.
+
+### [Improved Eyes of the Beast](https://www.wowhead.com/classic/spell=19558)
+
+**What it changes:** At 2/2 Increases the duration of Eyes of the Beast by 1 minute.
+
+**My assessment:** D-Tier. Very niche and I consider it a “fun” talent. Can be useful for scouting with your pet, but Eagle Eye is better.
+
+### [Improved Aspect of the Monkey](https://www.wowhead.com/classic/spell=24387)
+
+**What it changes:** Increases Aspect of the Monkey’s additional dodge chance by 1% per point up to 5%.
+
+**My assessment:** C-Tier. Niche and I would only consider it in very specific pvp scenarios when I need more survivability against melee. But the points can be spent better in the Survival tree for that purpose.
+
+### [Thick Hide](https://www.wowhead.com/classic/spell=19612)
+
+**What it changes:** Increases your pets armor by 10% per point up to 30% at 3/3.
+
+**My assessment:** B-Tier. The second talent to address pet survivability. Reduces melee damage by about 10% at 3/3. I would chose this over Endurance Training if I know the pet will receive mostly physical damage.
+
+### [Improved Revive Pet](https://www.wowhead.com/classic/spell=19575)
+
+**What it changes:** Decreases cast time of Revive Pet significantly (4s instead of 10s), reduces mana cost and increases the amount of health your pet has after reviving.
+
+**My assessment:** A-Tier. Without this talent, it’s impractical to revive your pet during a fight. This talent changes that and is well worth the points, when your game plan relies on your pet being alive. Also useful if you need to pull with your pet in a raid.
+
+### [Pathfinding](https://www.wowhead.com/classic/spell=19560)
+
+**What it changes:** Increases Aspect of the Cheetah and Packs movement speed increase by 3% per point up to 6% at 2/2.
+
+**My assessment:** B-Tier. Strong while leveling, in dungeons (e.g. DMT farming), while in the open world and in pvp. Not a necessary talent but always nice to have.
+
+### [Bestial Swiftness](https://www.wowhead.com/classic/spell=19596)
+
+**What it changes:** Increases your pets outdoor movement speed by 30% at 1/1.
+
+**My assessment:** B-Tier. Only works outdoor. Indirectly increases your pet’s damage output and utility since it can connect faster and more consistently on an enemy. I would consider this when I rely on my pet for damage and know I will be outdoors a lot like in the open world, battle grounds and even some raids and dungeons.
+
+### [Unleashed Fury](https://www.wowhead.com/classic/spell=19620)
+
+**What it changes:** At 5/5 provides a 20% damage increase to your pet.
+
+**My assessment:** A-Tier. The strongest passive damage increase from talents for your pet. Includes white damage (auto attacks) and yellow damage (from pet abilities).
+
+### [Improved Mend Pet](https://www.wowhead.com/classic/spell=19573)
+
+**What it changes:** Mend Pet is channeled for 5s at the talent adds the chance to remove a Curse, Disease, Magic or Poison effect from your pet. At 1/2 a 15% every second and at 2/2 at 50% chance.
+
+**My assessment:** B-Tier. Niche but strong. While leveling and solo adventuring I would consider investing 1/2 into this talent to be able to remove some long-lasting diseases and curses. At 2/2 Mend Pet becomes a strong utility spell which reliably frees your pet from almost all negative effects.
+
+### [Ferocity](https://www.wowhead.com/classic/spell=19602)
+
+**What it changes:** At 5/5 it increases your pets chance to critically hit by 15%.
+
+**My assessment:** A-Tier. Your pet has a base crit chance of 5%. Ferocity increases it significantly to 20%. After Unleashed Fury the second strongest passive damage increase from talents.
+
+### [Spirit Bond](https://www.wowhead.com/classic/spell=20895)
+
+**What it changes:** At 2/2 every 10s the pet and its master will regenerate 2% of their maximum health.
+
+**My assessment:** B-Tier. Spirit Bond is very different from Endurance Training and Thick Hide: it gives sustain, not immediate effective HP. A “neutral” pet generates 61 HP every 10s or around 360 HP/min. It does not counter bursts of damage like the other two talents, but becomes valuable in prolonged engagements, like in longer duels, while farming etc. The scales with your and your pet’s health. Niche, but valuable given the right circumstances. The pet needs to be active for the talent to work.
+
+### [Intimidation](https://www.wowhead.com/classic/spell=19577)
+
+**What it changes:** Command your pet to stun the target for 3s.
+
+**My assessment:** S-Tier. One of our strongest Ccs and our only stun. It doesn’t share diminishing returns with Freezing Trap. The skill is activated instantly by the Hunter and puts a 15s buff on the pet. The stun is delivered with your pet’s next attack. The talent is always worth taking when spending more than 20 points into Beast Mastery as it is strong in itself and useful in all environments. It needs some awareness and coordination with your pet.
+
+### [Bestial Discipline](https://www.wowhead.com/classic/spell=19592)
+
+**What it changes:** Increases your pets focus regeneration by 20% at 2/2.
+
+**My assessment:** C-Tier. The base focus regeneration of 5 focus/s is increased to 6 focus/s. This seems like negligible, but can mean that your pet gets use an extra ability or two during a boss fight. Going this deep into Beast Mastery means that you rely on your pet for damage and it helps with that. The drawback is, that there might be better talents to spend your points on. Frenzy, Ferocity and Unleashed Fury are stronger dps increase. Use it in a pet focused build in which you don’t need the utility of Improved Mend Pet, the sustain of Spirit Bond or improved aspects.
+
+### [Frenzy](https://www.wowhead.com/classic/spell=19625)
+
+**What it changes:** At 5/5 your pet has a 100% to gain the Frenzy buff which increases your pet’s attack speed by 30% for 10s.
+
+**My assessment:** A-Tier. Your third passive dps increase for your pet. It only becomes available when going deep into Beast Mastery. It translates into a dps increase of roughly 24%. It favors a pet with fast attack speed, since that increases uptime. With a pet like Broken Tooth spending 4/5 can be an option and frees up one talent point.
+
+### [Bestial Wrath](https://www.wowhead.com/classic/spell=19574)
+
+**What it changes:** Send your pet into a rage, causing 50% additional damage for 18s. During this time your pet is immune to Cc effects.
+
+**My assessment:** S-Tier. The capstone talent in Beast Mastery and our strongest dps cooldown. The pet will enlarge and glow red, so the enemies will be aware when it’s active. It’s useful to drastically increase your pets damage output and make it stick to the target. I rate this ability highly even tough it’s rarely used at endgame. The reason being, that pets do not scale with our gear and their damage contribution diminishes over time.
+
+---
+layout: default
+title: "Talent Trees"
+has_children: true
+nav_order: 7
+permalink: /talents/
+---
+
+# 7. Talent Trees in Depth
+
+- [Talents in-depth]({{ '/talents/intro/' | relative_url }})
+- [Beast Mastery]({{ '/talents/beast-mastery/' | relative_url }})
+- [Marksmanship]({{ '/talents/marksmanship/' | relative_url }})
+- [Survival]({{ '/talents/survival/' | relative_url }})
+
+---
+layout: default
+title: "Talents in-depth"
+parent: "Talent Trees"
+nav_order: 1
+permalink: /talents/intro/
+---
+
+# Talents in-depth
+{: .no_toc }
+
+## How to evaluate a talent
+
+Talent trees decisively define how classes are played. During the leveling part we are rewarded with a point each level and can use it immediately to improve a certain aspect of our class or to gain new abilities. Usually there is powerful and gameplay defining talent to choose once a player invests their 11th, 21th or 31th point into one specialization. The Hunter is solely focused on ranged damage our talents don’t change the classes core gameplay, rather they strengthen certain aspects of our class (like the animal companion) or complement it by building on our strengths or bolstering our weakness. Exploring and experimenting with the different talents is a lot of fun and helps understand the facets of our class. Many guides refer to a handful of builds and present them as the best or only viable option. But it’s important to understand that there is no best build at everything! The optimal talents always depend on the situation at hand and every build you encounter should be understood as a general starting point on which to build on and adjust to your own playstyle and circumstances.
+
+## My rating scale
+
+I try to rate all the talents on a scale of D-S. D represents a talent I would not take under any circumstances, while S is a talent I would build around or always choose when going into the respective talent tree.
+
+<!--
+Unfinished build examples and writing prompts from Chapter 7.
+Retained for editing; not displayed on the published page.
+
+Complete build examples
+
+Include separate entries for:
+
+Beginner leveling.
+
+Solo play or farming.
+
+Dungeon and early endgame play.
+
+Raid damage and raid support.
+
+Battlegrounds and world PvP.
+
+A flexible build for mixed activities.
+
+Build template
+
+Name and purpose: [Fill in]
+
+Talent allocation and calculator link: [Fill in]
+
+Why these points: [Explain major choices.]
+
+Flexible points: [Explain alternatives.]
+
+Requirements: [Gear, pet, group, or playstyle assumptions.]
+
+How it plays: [What changes in practice.]
+
+Weaknesses: [Where it struggles.]
+
+Leveling order, if relevant: [Milestones.]
+
+When I would respec: [Specific trigger.]
+-->
+
+---
+layout: default
+title: "Marksmanship"
+parent: "Talent Trees"
+nav_order: 3
+permalink: /talents/marksmanship/
+---
+
+# Marksmanship
+{: .no_toc }
+
+## On this page
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+I consider Marksmanship our core specialization. A few remarks on MM:
+
+Everything we want to do becomes better with Marksmanship. It increases our personal ranged damage output significantly, it increases our range, it makes our main abilities more mana efficient and it allows us to provide a group-wide attack power bonus.
+
+In almost all cases we want to spend at least 11 points into MM, otherwise we don’t have access to Aimed Shot and our damage output suffers significantly. This gives MM flexibility the other specializations don’t have.
+
+At the same time, MM is our most boring specialization. There are basically no choices to be made. We don’t want to spend more than 31 points into it and there is not much flexibility, other than a few talent options. In contrast to the other two specializations, MM has some truly bad talents which we never want to pick up.
+
+For these reasons, MM is a staple of all our builds, except some niche experimental builds. At the same time, it’s not very exciting and there are not many meaningful choices to be made. Let’s examine the talents.
+
+## Talents
+
+### [Improved Concussive Shot](https://www.wowhead.com/classic/spell=19415)
+
+**What it changes:** At 5/5 gives Concussive Shot a 20% chance to stun the target for 3 sec.
+
+**My assessment:** A-Tier. Not a reliable stun, but nevertheless very impactful when it triggers. In PvP scenarios and even in dungeons and solo adventuring the first five points in MM go into this talent.
+
+### [Efficiency](https://www.wowhead.com/classic/spell=19420)
+
+**What it changes:** At 5/5 reduces the mana cost of our shots and stings by 10%.
+
+**My assessment:** B-Tier. Makes us more efficient and let us sustain our damage in longer fights. In raid settings and when we don’t have use for improved Concussive Shot, we put the first five points into Efficiency.
+
+### [Improved Hunter's Mark](https://www.wowhead.com/classic/spell=19425)
+
+**What it changes:** At 5/5. Increases Hunter’s Mark attack power bonus by 15%.
+
+**My assessment:** D-Tier. Our highest rank of Hunter’s Mark (Rank 4) gives 110 ranged attack power. This translates into 16 additional attack power or less then 4 attack power per talent point. It gets a bit better since every Hunter in the raid benefits from it but its still minor.
+
+### [Lethal Shots](https://www.wowhead.com/classic/spell=19431)
+
+**What it changes:** At 5/5 gives additional 5% chance to crit with ranged weapons.
+
+**My assessment:** A-Tier. Significant damage increase. Mind that it only increases ranged attacks.
+
+### [Aimed Shot](https://www.wowhead.com/classic/spell=19434)
+
+**What it changes:** Gives access to Aimed Shot.
+
+**My assessment:** S-Tier. Core part of our damage rotation and without it we lose a significant percentage of damage output. Necessary for raiding and also crucial for other environments. A huge contributor to our burst damage. It shares CD with Arcane Shot.
+
+### [Improved Arcane Shot](https://www.wowhead.com/classic/spell=19458)
+
+**What it changes:** At 5/5 reduces Arcane Shot’s coold down by 1 sec., down to 5 sec.
+
+**My assessment:** D-Tier. Arcane Shot is mostly used for pulling or if we want to do at least a bit of damage while moving. Reducing the CD is rather insignificant. If we spent points into Marksmanship we will pick up Aimed Shot which makes this ability obsolete.
+
+### [Hawk Eye](https://www.wowhead.com/classic/spell=19500)
+
+**What it changes:** At 3/3 increases the range of our attacks by 6 yards, from 35 to 41 yards.
+
+**My assessment:** A-Tier. Utility talent which enables us to engage and kite enemies in PvP from afar. While strong in PvP it is also notable in PvE.
+
+### [Improved Serpent Sting](https://www.wowhead.com/classic/spell=19468)
+
+**What it changes:** At 5/5 increases the damage of Serpent Sting by 10%.
+
+**My assessment:** C-Tier. Serpent Sting sadly doesn’t scale with our gear and this makes the damage increase rather insignificant. The ability is still useful outside of raids. Don’t use it in raids due to the debuff limit on bosses.
+
+### [Mortal Shots](https://www.wowhead.com/classic/spell=19490)
+
+**What it changes:** At 5/5 increases our critical strike damage by 30%.
+
+**My assessment:** A-Tier. Our critical hits do 100% more damage and 5/5 Mortal Shots increases this bonus to 130%. This talent becomes stronger with higher crit chance. With a crit chance of 20% this translates into a 5% overall personal damage increase. With 40% crit chance (e.g. in a raid setting) this translates into almost 9% additional damage. This only affects ranged attacks.
+
+### [Scatter Shot](https://www.wowhead.com/classic/spell=19503)
+
+**What it changes:** Gives access to Scatter Shot. A short-range shot that deals 50% weapon damage and disorients the target for 4 sec. Any damage caused will remove the effect. Turns off your attack when used.
+
+**My assessment:** S-Tier. If we don’t have it, we miss it. A flexible and powerful shot to interrupt and setup enemies. Can be reliably used defensively and offensively in all kinds of scenarios. In contrary to Wyvern Sting this is not a Cc shot in itself, rather serves to setup up enemies to reliably trap them (PvP), to stop an aggressor in its tracks until a tank can pick it up (dungeons), to punish a Mage blinking into close range and generally interrupt enemies from using abilities.
+
+### [Barrage](https://www.wowhead.com/classic/spell=24691)
+
+**What it changes:** Increases the damage done by your Multi-Shot and Volley spells by 15%.
+
+**My assessment:** A-Tier. Significant damage increase to our Multi-Shot which translates into more damage in cleave situations as well as single targets. Multi-Shot is a core part of our damage rotation and therefore our overall damage in all situations benefits from it. Since Volley doesn’t scale with our gear, it’s a minor increase there.
+
+### [Improved Scorpid Sting](https://www.wowhead.com/classic/spell=19494)
+
+**What it changes:** Reduces the Stamina of targets affected by your Scorpid Sting by 30% of the amount of Strength reduced.
+
+**My assessment:** D-Tier. Another talent which there is few incentives to pick it. At max level this reduces an enemies’ stamina by 20 (200 health points) during its duration. Even with the talent, I don’t see us using this over Viper’s Sting on mana users or Serpent’s Sting on melee opponents.
+
+### [Ranged Weapon Specialization](https://www.wowhead.com/classic/spell=19511)
+
+**What it changes:** At 5/5 increases our ranged damage by 5%.
+
+**My assessment:** A-Tier. Increases our personal ranged damage by 5% and therefore is the most significant personal damage increase in the Marksmanship specialization,  alongside Mortal Shots.
+
+### [Trueshot Aura](https://www.wowhead.com/classic/spell=19506)
+
+**What it changes:** Increases attack power of party members within 45 yards by 100.
+
+**My assessment:** S-Tier. In a raid setting we usually have 2-3 melee attackers in our raid group. This also affects our pet and ourself and is a significant contribution to overall raid damage. This is one of the very few partywide buffs that we bring, aside the wolf’s Furious Howl, Aspect of Nature and Pack. We are expected to bring this in a raid setting.
+
+---
+layout: default
+title: "Survival"
+parent: "Talent Trees"
+nav_order: 4
+permalink: /talents/survival/
+---
+
+# Survival
+{: .no_toc }
+
+## On this page
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+The talent tree focused on improving utility and survivability, but also increases our damage output in various ways. Survival does what the name suggests – it bolsters our defense and durability, especially against melee opponents and complements MM and BM by rounding out our weakness in melee. It offers passive bonuses as well as active abilities to aid our survival. Throughout the tree we also find talents to increase our damage output and when we invest enough points into it, we can gain access to talents powerful enough to rival MMs damage increases. However, we don’t gain a group-wide damage increase like Trueshot Aura and therefore deep Survival builds are more suited for solo adventuring, farming, dungeons or pvp instead of high-end raiding, since we should never put our own damage output above a group-wide increase that benefits the whole squad.
+
+I really like Survival because it has lots of strong and competing talents (and no useless ones) which gives us the opportunity to make the appropriate choices for the specific situation we want to tackle.
+
+## Put points into Survival
+
+- For situational damage increases against certain types of enemies, when melee weaving, when we include traps into our rotation. Additionally, Lightning Reflexes enables a well-rounded and versatile build that aims at maximizing attack power and crit chance by stacking agility, while picking up all the defensive and Cc benefits included in Survival.
+
+- To increase survivability, especially against melee aggressors, by gaining active abilities and passive bonuses to mitigate and soak damage or straight up avoiding it by slowing and rooting enemies.
+
+- To gain access to Entrapment which transforms Frost Trap into a powerful zoning tool to hinder enemies in choke points/areas which is generally strong, but especially in PvP.
+
+## Talents
+
+### [Monster Slaying](https://www.wowhead.com/classic/spell=24295)
+
+**What it changes:** At 3/3 provides 3% extra damage as well as 3% extra crit damage against Beasts, Giants and Dragonkin.
+
+**My assessment:** A-Tier. Point by Point a strong talent to against applicable foes. Good while leveling, dungeons, farming specific mobs and even early raids.
+
+### [Humanoid Slaying](https://www.wowhead.com/classic/spell=19153)
+
+**What it changes:** At 3/3 provides 3% extra damage as well as 3% extra crit damage against Humanoids.
+
+**My assessment:** A-Tier. Like Monster Slaying, strong talent where it applies. In this case also in PvP.
+
+### [Deflection](https://www.wowhead.com/classic/spell=19300)
+
+**What it changes:** At 5/5 provides 5% additional chance to Parry.
+
+**My assessment:** B-Tier. This increases our base chance to Parry to 10%. Good defensive talent, specifically against melee enemies in PvP. Synergizes well with Counter Attack, a later talent.
+
+### [Entrapment](https://www.wowhead.com/classic/spell=19390)
+
+**What it changes:** At 5/5 gives Immolation Trap, Frost Trap, and Explosive Trap a 25% chance to entrap enemies, preventing them from moving for 5 sec.
+
+**My assessment:** S-Tier. Frankly, this talent is overpowered (and will be nerved in WoW Forever). Specifically, its interaction with Frost Trap. With Explosive and Immolation Trap, the initial Trigger has a chance to root the target. However, Frost Trap has the chance to trigger the effect with every pulse/every 2 sec. This allows a Hunter to exercise heavy control on an area with slow and root effects. This is especially strong against Warriors and Rogues. The root is a magic effect and can therefore be dispelled by Priests and Paladins, but as long as enemies are inside Frost Traps area on effect, they can be affected again. Free Action Potion counters this effect, which reduces the talents effectiveness in coordinated PvP. But outside of that scenario its very strong.
+
+### [Savage Strikes](https://www.wowhead.com/classic/spell=19160)
+
+**What it changes:** At 2/2 increases our chance for a critical hit with Raptor Strike and Mongoose Bite by 20%.
+
+**My assessment:** A-Tier. This increases our chance to reliably hit very hard with our melee attacks when we need to. For example when we “melee-weave” in PvE scenarios or when an enemy engages toe-to-toe. A big Raptor Strike hit with a slow two-handed weapons may make our enemies regret the decision to come close.
+
+### [Improved Wing Clip](https://www.wowhead.com/classic/spell=19235)
+
+**What it changes:** At 5/5 gives our Wing Clip a 20% chance to root our target in place for 5 sec.
+
+**My assessment:** B-Tier. In many scenarios I chose Entrapment over Wing Clip and it’s the stronger talent in battle ground situations. Since Wing Clip can be spammed frequently, this talent transforms it into a surprisingly reliable tool to snare a single enemy. Its probably the stronger choice in duels and gives you the possibility to snare melee targets without using Feign Death.
+
+### [Clever Traps](https://www.wowhead.com/classic/spell=19245)
+
+**What it changes:** At 2/2 increases the duration of Freezing and Frost traps effect by 30% and the damage of Immolation and Explosive traps by 30%.
+
+**My assessment:** B-Tier. This further increases the interaction between Frost Trap and Entrapment. It also notably increases Freezing Trap’s duration. These are the more notable effects. In addition to that, our fire traps damage is increased. This is not to be underestimated: Immolation is our strongest single target dot and Explosive Trap our strongest ability against groups of mobs.
+
+### [Survivalist](https://www.wowhead.com/classic/spell=19259)
+
+**What it changes:** At 5/5 gives 10% additional health points.
+
+**My assessment:** B-Tier. Gives health and let’s you survive longer. Mainly finds application in PvP since HP is very valuable there, specifically in duels.
+
+### [Deterrence](https://www.wowhead.com/classic/spell=19263)
+
+**What it changes:** Active talent. Increases chance to dodge and parry by 25% for 10 sec. 5 min CD.
+
+**My assessment:** A-Tier. Our strongest defensive CD. The CD is long, but balanced out how powerful this ability is. During its duration melee attackers will have a hard time dealing damage to you, while you get parry-hasted (your next swing occurs earlier when you parry an attack). This has strong synergy with Counter Attack.
+
+### [Trap Mastery](https://www.wowhead.com/classic/spell=19377)
+
+**What it changes:** At 2/2 decreases enemies’ chance to resist your traps by 10%.
+
+**My assessment:** B-Tier. Traps hit chance is calculated like spell resistance. An enemy of the same level has a 4% chance to resist your traps. 1 point into Trap Mastery reduces this to 1%. It can never below 1%. I often put a point into it while in PvP to make my traps hit as reliably as possible. With 0 points, enemies of a higher level have a chance of 5% (lvl 61), 6% (lvl 62) and 17% (lvl 63, skull lvl) to resist. So put as many points into it as needed for your use case.
+
+### [Surefooted](https://www.wowhead.com/classic/spell=24283)
+
+**What it changes:** At 3/3 gives 3% hit and 15% chance to resist slow and mobilizing effects.
+
+**My assessment:** B-Tier. The talent serves a dual purpose. Hunters can build into it to compensate for a lack of hit on gear (as a Hunter you should aim for 9% in raids) which is especially useful for in earlier raid tiers. The second effect becomes useful in PvP, since the additional chance to resist slow and immobilize effects from abilities like Frost Nova, Frost Bolt, Hamstring and so on. 15% doesn’t sound like much but resisting those effects can mean victory or death and it will add up over time.
+
+### [Improved Feign Death](https://www.wowhead.com/classic/spell=19287)
+
+**What it changes:** At 2/2 decreases enemies’ chance to resist your Feign Death by 4%.
+
+**My assessment:** B-Tier. The mechanics are the same like Trap Mastery. 2/2 reduces your enemies’ chance to resist Feign Death to 1%. Feign Death is a core ability in all game modes. We depend on it to get out of fights and survive situations we wouldn’t survive (and other classes will not), to lay down traps mid-fight as well as swapping our trinkets. This talent makes all of that more reliable and it is very noticeable over the long run.
+
+### [Killer Instinct](https://www.wowhead.com/classic/spell=19373)
+
+**What it changes:** At 3/3 gives 3% additional crit chance.
+
+**My assessment:** B-Tier. Significant damage increase and if we go this deep into the Survival tree there is no reason to not pick it up. The talent is a requirement for our capstone talent Wyvern Sting.
+
+### [Counterattack](https://www.wowhead.com/classic/spell=19306)
+
+**What it changes:** A strike that becomes active after parrying an opponent's attack. This attack deals 40 damage and immobilizes the target for 5 sec. Counterattack cannot be blocked, dodged, or parried.
+
+**My assessment:** A-Tier. Synergy with Deflection and Deterrence. Without them it’s not a reliable defensive tool. However, while Deterrence is active, it’s a reliable tool to snare melee opponents to gain distance or set them up for a trap.
+
+### [Lightning Reflexes](https://www.wowhead.com/classic/spell=24297) (LR)
+
+**What it changes:** At 5/5 gives an additional 15% agility.
+
+**My assessment:** S-Tier. One reason to go deep into Survival is this talent and its interaction with our main stat, agility. A raid geared Hunter can achieve approximately 500-580 agility, before world buffs and consumes. This translates into 75-90 agility. Fully world buffed and consumed, this clocks in at around 130 agility in my personal case. In a raid scenario this means 260 ranged attack power and around 6% additional crit chance, only looking at the offensive side. Agility also increases dodge chance and armor value and therefore makes us more durable as well. This looks great on paper and it is. However, in a raid setting, a deep MM build with True Shot Aura is – in my opinion – still the way to go. While LR is all in all a slight boost to our personal damage, it does not beat TSA’s contribution to a raids overall damage, assuming you can apply it to at least 3 other players.
+
+Still, LR is fun and I run it successfully in many builds in PvP and PvE, outside of raids.
+
+### [Wyvern Sting](https://www.wowhead.com/classic/spell=19386)
+
+**What it changes:** A stinging shot that puts the target to sleep for 12 sec. Any damage will cancel the effect. When the target wakes up, the Sting causes 300 Nature damage over 6 sec. Only usable out of combat. Only one Sting per Hunter can be active on the target at a time.
+
+**My assessment:** S-Tier. Our Survival capstone talent. Its greatest drawback is, that when we take it, we can’t reach Intimidation and, more importantly, Scatter Shot. Scatter Shot has more flexibility and more use cases which makes it overall the more valuable ability. However, Wyvern Sting serves a different purpose. It is a 12 sec. long Cc that can be potentially fired from 41 yards away. Its value depends on how well it is used, but it can be potentially very impactful. Specifically in a supporting build.
