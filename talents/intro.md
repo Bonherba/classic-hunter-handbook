@@ -9,12 +9,6 @@ parent: "Specialisation Chapter"
 # Introduction and Tier List
 {: .no_toc }
 
-## On this page
-{: .no_toc }
-
-1. TOC
-{:toc}
-
 ## How to evaluate a talent
 
 Talent choices shape how a class plays. From level 10 onward, you earn one talent point per level, giving you 51 points to spend at level 60. You can use these points to improve existing abilities or unlock new ones. Some talents require you to invest further in a tree before they become available. For example, Aimed Shot becomes available after you spend 10 points in Marksmanship. The 11th, 21st, and 31st points in a tree often unlock abilities that can define a build.
