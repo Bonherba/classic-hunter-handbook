@@ -1,0 +1,19 @@
+/* Handbook artwork and accessible, responsive talent tiers. */
+.hunter-art {margin:1.5rem 0 2rem;}
+.hunter-art img {display:block;max-width:100%;height:auto;border-radius:8px;}
+.hunter-banner img {width:100%;}
+.hunter-portrait {max-width:22rem;margin-inline:auto;}
+.hunter-tiers {margin:1.5rem 0;}
+.hunter-tier {display:grid;grid-template-columns:4.5rem minmax(0,1fr);margin-bottom:.6rem;border:1px solid #ccd0d8;border-radius:6px;overflow:hidden;}
+.hunter-rank {display:flex;flex-direction:column;justify-content:center;align-items:center;color:#18202b;gap:.2rem;text-align:center;padding:.7rem .2rem;}
+.hunter-rank strong {font-size:2rem;line-height:1.2;}.hunter-rank span {font-size:.7rem;}
+.tier-s .hunter-rank {background:#ff8b8b;}.tier-a .hunter-rank {background:#ffc48b;}.tier-b .hunter-rank {background:#ffe38b;}.tier-c .hunter-rank {background:#d6ed99;}.tier-d .hunter-rank {background:#a2dbaa;}
+.hunter-cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,10rem),1fr));gap:.5rem;padding:.6rem;align-items:start;background:#f4f5f7;}
+.hunter-cards details {border:1px solid #d0d4dc;border-radius:5px;background:#fff;color:#272b34;}
+.hunter-cards summary {cursor:pointer;padding:.75rem;font-weight:600;line-height:1.4;font-size:.9rem;}
+.hunter-cards summary:focus-visible {outline:3px solid #395bb6;outline-offset:2px;}
+.hunter-tree {display:block;font-size:.7rem;font-weight:400;color:#545a67;margin-bottom:.3rem;}
+.hunter-cards details[open] {grid-column:1/-1;}
+.hunter-assessment {padding:0 .8rem .6rem;font-size:.9rem;line-height:1.6;}
+.hunter-assessment a {color:#244b9c;text-decoration:underline;}
+@media(max-width:480px) {.hunter-tier {grid-template-columns:3rem minmax(0,1fr);}.hunter-cards {padding:.4rem;}}
