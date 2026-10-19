@@ -1,17 +1,14 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: "Talent Trees"
+has_children: true
+nav_order: 7
+permalink: /talents/
 ---
 
-# Hunter's Handbook
-## World of Warcraft Classic Era
+# 7. Talent Trees in Depth
 
-A practical guide to the Hunter class, based on my experience
-and knowledge of the game.
-
-This handbook covers pets, abilities, talents, PvE, PvP,
-macros, and noteworthy equipment.
-
-**Work in progress:** Chapters will be added and revised as
-the handbook develops.
+- [Talents in-depth]({{ '/talents/intro/' | relative_url }})
+- [Beast Mastery]({{ '/talents/beast-mastery/' | relative_url }})
+- [Marksmanship]({{ '/talents/marksmanship/' | relative_url }})
+- [Survival]({{ '/talents/survival/' | relative_url }})
