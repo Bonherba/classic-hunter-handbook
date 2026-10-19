@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "Complete builds"
-nav_order: 9
+title: "Build Library"
+parent: "Specialisation Chapter"
+nav_order: 5
 permalink: /builds/
 ---
 
-# 9. Complete Builds
+# Build Library
 
 Complete talent builds will be added here as I finish them. Each build will explain its purpose, point allocation, key choices, and practical tradeoffs, with a link to its talent calculator.
 
-In the meantime, explore [the talent trees]({{ '/talents/' | relative_url }}) or compare [my talent ratings]({{ '/talents/tier-list/' | relative_url }}).
+In the meantime, explore [the talent trees]({{ '/talents/' | relative_url }}) or compare [my talent ratings]({{ '/talents/intro/' | relative_url }}#tier-list).
 
 <!-- Authoring template — copy this block for each build, then remove the comment markers.
 

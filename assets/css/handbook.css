@@ -17,3 +17,33 @@
 .hunter-assessment {padding:0 .8rem .6rem;font-size:.9rem;line-height:1.6;}
 .hunter-assessment a {color:#244b9c;text-decoration:underline;}
 @media(max-width:480px) {.hunter-tier {grid-template-columns:3rem minmax(0,1fr);}.hunter-cards {padding:.4rem;}}
+
+/* Compact talent comparisons: full prose on desktop; stacked rows on phones. */
+.hunter-talents {clear:both;margin:1.25rem 0;}
+.hunter-talents .table-wrapper {box-shadow:none;overflow:visible;}
+.hunter-talents table {width:100%;table-layout:fixed;border-collapse:collapse;font-size:.875rem;line-height:1.5;}
+.hunter-talents th, .hunter-talents td {padding:.7rem .65rem;vertical-align:top;border:1px solid #dce0e6;min-width:0;overflow-wrap:anywhere;}
+.hunter-talents th {background:#eaf0f6;color:#263544;font-weight:600;}
+.hunter-talents th:nth-child(1) {width:20%;}
+.hunter-talents th:nth-child(2) {width:30%;}
+.hunter-talents th:nth-child(3) {width:50%;}
+.hunter-talents tbody tr:nth-child(even) {background:#f8fafc;}
+.hunter-talents p {margin:0 0 .55rem;}.hunter-talents p:last-child {margin-bottom:0;}
+.hunter-talents ul {padding-left:1rem;margin:.4rem 0;}
+.hunter-talent-name {display:inline-block;font-weight:600;scroll-margin-top:5rem;}
+.hunter-grade {display:inline-block;margin-top:.45rem;padding:.1rem .4rem;border-radius:4px;color:#18202b;font-size:.75rem;font-weight:600;white-space:nowrap;}
+.grade-s {background:#ff8b8b;}.grade-a {background:#ffc48b;}.grade-b {background:#ffe38b;}.grade-c {background:#d6ed99;}.grade-d {background:#a2dbaa;}
+.hunter-portrait {float:right;width:12rem;max-width:35%;margin:.25rem 0 1.2rem 1.5rem;}
+@media(max-width:600px) {
+ .hunter-portrait {float:none;width:11rem;max-width:65%;margin:1rem auto;}
+ .hunter-talents table,.hunter-talents tbody,.hunter-talents tr,.hunter-talents td {display:block;width:100%;}
+ .hunter-talents thead {position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);}
+ .hunter-talents tr {border:1px solid #dce0e6;border-radius:6px;margin-bottom:.85rem;overflow:hidden;}
+ .hunter-talents td {border:0;padding:.6rem .8rem;}
+ .hunter-talents td:first-child {background:#eaf0f6;}
+ .hunter-talents td:nth-child(2)::before {content:'What it changes';}
+ .hunter-talents td:nth-child(3)::before {content:'My assessment';}
+ .hunter-talents td:nth-child(n+2)::before {display:block;font-weight:600;font-size:.75rem;margin-bottom:.35rem;color:#526176;}
+ .hunter-grade {margin-top:.3rem;}
+}
+@media print {.hunter-talents tr {break-inside:avoid;}.hunter-portrait {width:9rem;}}

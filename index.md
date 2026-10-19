@@ -18,6 +18,4 @@ the handbook develops.
 
 ## Available chapters
 
-- [7. Talent Trees in Depth]({{ '/talents/' | relative_url }})
-- [8. Talent Tier List]({{ '/talents/tier-list/' | relative_url }})
-- [9. Complete Builds — coming soon]({{ '/builds/' | relative_url }})
+- [7. Specialisation Chapter]({{ '/talents/' | relative_url }}) — talent discussion, tier list, all three specialisations, and the Build Library.
