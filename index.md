@@ -18,4 +18,5 @@ the handbook develops.
 
 ## Available chapters
 
-- [7. Specialisation Chapter]({{ '/talents/' | relative_url }}) — talent discussion, tier list, all three specialisations, and the Build Library.
+- [Hunter Specialisations]({{ "/talents/" | relative_url }}) — introduction, tier list, and all three specialisations.
+- [Build Library]({{ "/builds/" | relative_url }}) — builds for raiding, PvP, dungeons, solo adventuring, and leveling.

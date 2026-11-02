@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Survival"
-nav_order: 4
+nav_order: 3
 permalink: /talents/survival/
-parent: "Specialisation Chapter"
+parent: "Hunter Specialisations"
 ---
 
 # Survival
@@ -54,4 +54,4 @@ Each row combines the talent’s effect with my rating and assessment. Talent na
 
 ---
 
-[Specialisation Chapter]({{ '/talents/' | relative_url }}) · [Introduction and tier list]({{ '/talents/intro/' | relative_url }}) · [Build Library]({{ '/builds/' | relative_url }})
+[Hunter Specialisations]({{ '/talents/' | relative_url }}) · [Build Library]({{ '/builds/' | relative_url }})

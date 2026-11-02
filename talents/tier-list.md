@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Talent tier list"
+title: "Talent tier list — moved"
 permalink: /talents/tier-list/
 nav_exclude: true
 search_exclude: true
 ---
 
-# Talent tier list
+# Talent Tier List
 
-The tier list is now part of the [Specialisation Chapter introduction]({{ '/talents/intro/' | relative_url }}#tier-list), alongside the rating explanations.
+[View the tier list and rating explanations in Hunter Specialisations]({{ "/talents/" | relative_url }}#tier-list).
