@@ -1,0 +1,36 @@
+/* Build Library only: keep each build visually grouped. */
+.hunter-build {
+  margin: 1.5rem 0 2.75rem;
+  padding: 0 1.35rem 1.25rem;
+  border: 1px solid #d5dce3;
+  border-left: 4px solid #69894d;
+  border-radius: 10px;
+  background: #fff;
+  color: #272b34;
+  box-shadow: 0 3px 12px rgba(26,39,52,.06);
+  overflow: hidden;
+}
+.hunter-build h3 {
+  margin: 0 -1.35rem 1.15rem;
+  padding: 1rem 1.35rem;
+  background: #edf2e8;
+  border-bottom: 1px solid #d5dce3;
+  color: #263622;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  scroll-margin-top: 5rem;
+}
+.hunter-build p {line-height: 1.7;}
+.hunter-build a {color: #245b8c;}
+.hunter-build a:focus-visible {outline: 3px solid #69894d;outline-offset: 3px;}
+.hunter-build img {display:block;max-width:100%;height:auto;margin:1rem auto;border-radius:8px;}
+.hunter-build > :last-child {margin-bottom:0;}
+.hunter-build-placeholder {padding-bottom:0;}
+.hunter-build-placeholder h3 {margin-bottom:0;border-bottom:0;}
+@media(max-width:600px) {
+  .hunter-build {padding:0 .85rem 1rem;margin-bottom:2rem;}
+  .hunter-build h3 {margin-left:-.85rem;margin-right:-.85rem;padding:.9rem .85rem;font-size:1.1rem;}
+  .hunter-build-placeholder {padding-bottom:0;}
+}
+@media print {.hunter-build {box-shadow:none;break-inside:avoid;}}
