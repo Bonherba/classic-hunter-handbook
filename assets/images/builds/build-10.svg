@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="837" viewBox="0 0 1140 837" role="img" aria-labelledby="title desc">
+<title id="title">PvE BM/MM — Intimidation / Scatter Shot</title>
+<desc id="desc">Allocated talents and ranks in Beast Mastery, Marksmanship and Survival. A text version is provided below the image.</desc>
+<rect width="1140" height="837" rx="18" fill="#151b23"/>
+<style>text {font-family:Arial,sans-serif;fill:#e9eef5} .muted{fill:#aebac8}</style>
+<text x="30" y="35" font-size="14" letter-spacing="2" class="muted">HUNTER’S HANDBOOK · BUILD LIBRARY</text>
+<text x="30" y="72" font-size="25" font-weight="bold">PvE BM/MM — Intimidation / Scatter Shot</text>
+<rect x="30" y="98" width="340" height="4" fill="#96c874"/>
+<text x="30" y="132" font-size="23" font-weight="bold">Beast Mastery</text>
+<text x="368" y="132" text-anchor="end" font-size="23" style="fill:#96c874">21</text>
+<text x="30" y="174" font-size="17">Improved Aspect of the Hawk</text>
+<text x="368" y="174" text-anchor="end" font-size="19" style="fill:#96c874">5/5</text>
+<rect x="30" y="204" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="49" y="204" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="68" y="204" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="87" y="204" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="106" y="204" width="14" height="5" rx="2" fill="#96c874"/>
+<text x="30" y="242" font-size="17">Thick Hide</text>
+<text x="368" y="242" text-anchor="end" font-size="19" style="fill:#96c874">3/3</text>
+<rect x="30" y="272" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="49" y="272" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="68" y="272" width="14" height="5" rx="2" fill="#96c874"/>
+<text x="30" y="310" font-size="17">Improved Revive Pet</text>
+<text x="368" y="310" text-anchor="end" font-size="19" style="fill:#96c874">2/2</text>
+<rect x="30" y="340" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="49" y="340" width="14" height="5" rx="2" fill="#96c874"/>
+<text x="30" y="378" font-size="17">Unleashed Fury</text>
+<text x="368" y="378" text-anchor="end" font-size="19" style="fill:#96c874">5/5</text>
+<rect x="30" y="408" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="49" y="408" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="68" y="408" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="87" y="408" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="106" y="408" width="14" height="5" rx="2" fill="#96c874"/>
+<text x="30" y="446" font-size="17">Ferocity</text>
+<text x="368" y="446" text-anchor="end" font-size="19" style="fill:#96c874">5/5</text>
+<rect x="30" y="476" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="49" y="476" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="68" y="476" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="87" y="476" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="106" y="476" width="14" height="5" rx="2" fill="#96c874"/>
+<text x="30" y="514" font-size="17">Intimidation</text>
+<text x="368" y="514" text-anchor="end" font-size="19" style="fill:#96c874">1/1</text>
+<rect x="30" y="544" width="14" height="5" rx="2" fill="#96c874"/>
+<rect x="400" y="98" width="340" height="4" fill="#85bcef"/>
+<text x="400" y="132" font-size="23" font-weight="bold">Marksmanship</text>
+<text x="738" y="132" text-anchor="end" font-size="23" style="fill:#85bcef">30</text>
+<text x="400" y="174" font-size="17">Efficiency</text>
+<text x="738" y="174" text-anchor="end" font-size="19" style="fill:#85bcef">5/5</text>
+<rect x="400" y="204" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="204" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="204" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="457" y="204" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="476" y="204" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="242" font-size="17">Improved Hunter&#x27;s Mark</text>
+<text x="738" y="242" text-anchor="end" font-size="19" style="fill:#85bcef">2/5</text>
+<rect x="400" y="272" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="272" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="272" width="14" height="5" rx="2" fill="#394451"/>
+<rect x="457" y="272" width="14" height="5" rx="2" fill="#394451"/>
+<rect x="476" y="272" width="14" height="5" rx="2" fill="#394451"/>
+<text x="400" y="310" font-size="17">Lethal Shots</text>
+<text x="738" y="310" text-anchor="end" font-size="19" style="fill:#85bcef">5/5</text>
+<rect x="400" y="340" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="340" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="340" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="457" y="340" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="476" y="340" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="378" font-size="17">Aimed Shot</text>
+<text x="738" y="378" text-anchor="end" font-size="19" style="fill:#85bcef">1/1</text>
+<rect x="400" y="408" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="446" font-size="17">Hawk Eye</text>
+<text x="738" y="446" text-anchor="end" font-size="19" style="fill:#85bcef">3/3</text>
+<rect x="400" y="476" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="476" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="476" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="514" font-size="17">Mortal Shots</text>
+<text x="738" y="514" text-anchor="end" font-size="19" style="fill:#85bcef">5/5</text>
+<rect x="400" y="544" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="544" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="544" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="457" y="544" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="476" y="544" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="582" font-size="17">Scatter Shot</text>
+<text x="738" y="582" text-anchor="end" font-size="19" style="fill:#85bcef">1/1</text>
+<rect x="400" y="612" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="650" font-size="17">Barrage</text>
+<text x="738" y="650" text-anchor="end" font-size="19" style="fill:#85bcef">3/3</text>
+<rect x="400" y="680" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="680" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="680" width="14" height="5" rx="2" fill="#85bcef"/>
+<text x="400" y="718" font-size="17">Ranged Weapon Specialization</text>
+<text x="738" y="718" text-anchor="end" font-size="19" style="fill:#85bcef">5/5</text>
+<rect x="400" y="748" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="419" y="748" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="438" y="748" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="457" y="748" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="476" y="748" width="14" height="5" rx="2" fill="#85bcef"/>
+<rect x="770" y="98" width="340" height="4" fill="#dcb36a"/>
+<text x="770" y="132" font-size="23" font-weight="bold">Survival</text>
+<text x="1108" y="132" text-anchor="end" font-size="23" style="fill:#dcb36a">0</text>
+<text x="770" y="180" font-size="17" class="muted">No points allocated</text>
+<text x="30" y="812" font-size="15" class="muted">51 / 51 points · Allocated talents only · Open the linked calculator to explore the full trees</text>
+</svg>
