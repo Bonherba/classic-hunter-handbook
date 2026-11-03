@@ -8,4 +8,4 @@ search_exclude: true
 
 # Talent Tier List
 
-[View the tier list and rating explanations in Hunter Specialisations]({{ "/talents/" | relative_url }}#tier-list).
+[View the tier list and rating explanations in Introduction and Tier List]({{ "/talents/intro/" | relative_url }}#tier-list).

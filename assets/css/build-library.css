@@ -34,3 +34,15 @@
   .hunter-build-placeholder {padding-bottom:0;}
 }
 @media print {.hunter-build {box-shadow:none;break-inside:avoid;}}
+
+/* Load each third-party calculator only when the reader chooses to open it. */
+.hunter-calculator {margin:1rem 0 1.5rem;}
+.hunter-calculator-toggle {font:inherit;font-weight:600;padding:.65rem 1rem;border:1px solid #526e3b;border-radius:6px;color:#fff;background:#405c2c;cursor:pointer;}
+.hunter-calculator-toggle:hover {background:#304721;}
+.hunter-calculator-toggle:focus-visible {outline:3px solid #245b8c;outline-offset:3px;}
+.hunter-calculator-panel {margin-top:1rem;}
+.hunter-calculator-panel p {font-size:.875rem;}
+.hunter-calculator-frame {display:block;width:100%;height:850px;border:1px solid #ccd3da;border-radius:6px;background:#fff;}
+.hunter-calculator [hidden] {display:none !important;}
+@media(max-width:600px) {.hunter-calculator-frame {height:700px;}}
+@media print {.hunter-calculator {display:none;}}

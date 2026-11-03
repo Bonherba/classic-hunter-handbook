@@ -20,6 +20,11 @@ parent: "Build Library"
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B2222266666bbb855eeeeehhhgmmmmmpC11100044444a885c5ddd)
 
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B2222266666bbb855eeeeehhhgmmmmmpC11100044444a885c5ddd" aria-expanded="false" aria-controls="calculator-dungeons-solo-8" hidden>Open calculator here</button>
+<div id="calculator-dungeons-solo-8" class="hunter-calculator-panel" hidden></div>
+</div>
+
 </div>
 
 <div class="hunter-build" markdown="1">
@@ -32,7 +37,10 @@ parent: "Build Library"
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A11111222266677aaaaaeeeeehmmmmmpB222225666668bbbeeeee)
 
-*The calculator link has been repaired to load all allocated talents correctly; final ranks are unchanged. [Original draft link](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A222277666aaaaaeeeeeh11111mmmmmpB2222266666bbb85eeeee).*
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A11111222266677aaaaaeeeeehmmmmmpB222225666668bbbeeeee" aria-expanded="false" aria-controls="calculator-dungeons-solo-9" hidden>Open calculator here</button>
+<div id="calculator-dungeons-solo-9" class="hunter-calculator-panel" hidden></div>
+</div>
 
 </div>
 
@@ -46,7 +54,10 @@ parent: "Build Library"
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A1111166677aaaaaeeeeehB2222255666668bbbeeeeeghhhmmmmm)
 
-*The calculator link has been repaired to load all allocated talents correctly; final ranks are unchanged. [Original draft link](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A77666aaaaaeeeeeh11111B2222266666bbb85eeeeeghhh5mmmmm).*
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A1111166677aaaaaeeeeehB2222255666668bbbeeeeeghhhmmmmm" aria-expanded="false" aria-controls="calculator-dungeons-solo-10" hidden>Open calculator here</button>
+<div id="calculator-dungeons-solo-10" class="hunter-calculator-panel" hidden></div>
+</div>
 
 </div>
 
@@ -60,8 +71,15 @@ parent: "Build Library"
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A111117766688B22222666668C2222244444aBbbb5eeeee5ghhhmmm)
 
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A111117766688B22222666668C2222244444aBbbb5eeeee5ghhhmmm" aria-expanded="false" aria-controls="calculator-dungeons-solo-11" hidden>Open calculator here</button>
+<div id="calculator-dungeons-solo-11" class="hunter-calculator-panel" hidden></div>
+</div>
+
 </div>
 
 ---
 
 Build links and saved allocations: [Warcraft Tavern’s Classic Hunter talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter/). Visual summaries created for this handbook.
+
+<script src="{{ '/assets/js/build-calculators.js' | relative_url }}" defer></script>

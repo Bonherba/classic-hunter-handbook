@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Survival"
-nav_order: 3
+nav_order: 4
 permalink: /talents/survival/
 parent: "Hunter Specialisations"
 ---

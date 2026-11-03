@@ -22,6 +22,11 @@ Battlegrounds and open world PvP.
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=C2222266666444445acdddihhhmmmmmpB11111266666bbb8eeeee)
 
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=C2222266666444445acdddihhhmmmmmpB11111266666bbb8eeeee" aria-expanded="false" aria-controls="calculator-pvp-3" hidden>Open calculator here</button>
+<div id="calculator-pvp-3" class="hunter-calculator-panel" hidden></div>
+</div>
+
 The Hunter can play a variety of roles in PvP, specifically Battlegrounds. Hunters have respectable burst damage which lets them contribute to the quick elimination of targets. However, their toolkit allows them to contribute in different ways. Hunters excel in being a nuisance and hindering opponents from doing their job. They do this through area denial, peeling, disruption and strong survivability. Our long range, our traps and slows let us prevent enemies (mostly Warriors and Rogues) from reaching and controlling tactically important positions, as well as keeping them away from our healers and casters. In addition, we can disrupt the enemies’ backline by interrupting spellcasting, draining mana with Viper Sting and pressuring through raw damage. Instead of Wyvern Sting, which fits this playstyle, Scatter Shot is always a more flexible alternative.
 
 </div>
@@ -35,6 +40,11 @@ The Hunter can play a variety of roles in PvP, specifically Battlegrounds. Hunte
 [![Surv/MM — Dueling: 0 / 21 / 30.]({{ "/assets/images/builds/build-04.svg" | relative_url }})](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeegC1112266666a9999cddd9i5hhhmmmmm)
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeegC1112266666a9999cddd9i5hhhmmmmm)
+
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeegC1112266666a9999cddd9i5hhhmmmmm" aria-expanded="false" aria-controls="calculator-pvp-4" hidden>Open calculator here</button>
+<div id="calculator-pvp-4" class="hunter-calculator-panel" hidden></div>
+</div>
 
 A deep Surv/MM variant that is focused on dueling. This is my recommendation with advanced gear (like T2+). The build excels specifically against melee opponents, but will also fare well against casters. However, by shifting a few points from Lightning Reflexes to Barrage, the build would fare a bit better against casters. You get a lot of stamina which helps survive bursts and stun locks, and you get all essential defensive tools, like Improved Wing Clip, Deterrence, Counterattack, Surefooted and reliable traps. At the same time, you keep offensive power thanks to Humanoid Slaying, Killer Instinct and all the Marksmanship talents. Lightning Reflexes provides offensive and defensive stat benefits while Scatter Shot is our reliable all-around utility shot.
 
@@ -50,6 +60,11 @@ A deep Surv/MM variant that is focused on dueling. This is my recommendation wit
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B11111666668bbb2eeeeeghhh2mmmmmpC1112244444a5599cddd9)
 
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B11111666668bbb2eeeeeghhh2mmmmmpC1112244444a5599cddd9" aria-expanded="false" aria-controls="calculator-pvp-5" hidden>Open calculator here</button>
+<div id="calculator-pvp-5" class="hunter-calculator-panel" hidden></div>
+</div>
+
 This type of build is probably my personal favorite. We build into Marksmanship up to Trueshot Aura, or alternatively only spend 30 talent points and get Counterattack instead, depending on our playstyle. Then we get some key talents from Survival to complement our weakness in melee and a few points to increase damage output. The points in Survival are flexible and should be adapted to the situations you face. You can favor Improved Wing Clip which is valuable in duels and open world situations, you can increase your stamina, make your traps more effective or increase your parry chance, which synergises with Counterattack in case you spec into it. I like these builds because of the strong burst damage (Barrage talent + Renataki’s Charm of Beasts trinket = best burst combo) while still being able to withstand melee opponents as well as casters. It is probably the most well-rounded build in PvP. At the same time, the build also shines in dungeons and smaller raids since you bring TSA alongside lots of utility.
 
 </div>
@@ -63,6 +78,11 @@ This type of build is probably my personal favorite. We build into Marksmanship 
 [![BM/MM — Intimidation / Scatter Shot: 21 / 27 / 3.]({{ "/assets/images/builds/build-06.svg" | relative_url }})](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeeghhh2C111BmmA11111772229aaaaaeeeeh)
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeeghhh2C111BmmA11111772229aaaaaeeeeh)
+
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=B1111166666bbb82eeeeeghhh2C111BmmA11111772229aaaaaeeeeh" aria-expanded="false" aria-controls="calculator-pvp-6" hidden>Open calculator here</button>
+<div id="calculator-pvp-6" class="hunter-calculator-panel" hidden></div>
+</div>
 
 In this type of build you spec into Beast Mastery to get Intimidation and Marksmanship to get Scatter Shot. A few points can be moved around based on personal preference. You will have strong damage output – personal as well as through the pet. The key abilities are Scatter Shot and Intimidation which have to be wisely managed, since they serve as your offensive setup as well as your active defense. This build lacks Survival’s defensive tools against melee opponents but fares well against caster types and in open world scenarios.
 
@@ -78,6 +98,11 @@ In this type of build you spec into Beast Mastery to get Intimidation and Marksm
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A2222277666aaaaa9eeeeheggddmmmmmpC2222244444a9999dddc)
 
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A2222277666aaaaa9eeeeheggddmmmmmpC2222244444a9999dddc" aria-expanded="false" aria-controls="calculator-pvp-7" hidden>Open calculator here</button>
+<div id="calculator-pvp-7" class="hunter-calculator-panel" hidden></div>
+</div>
+
 This build forgoes a lot of offensive power by neglecting Marksmanship. Instead, we get a durable and dangerous pet and durability and defenses from Survival. I had success with this build in situations where I had to defend an objective, a tower or some other point of interest. With the appropriate gear, the Hunter becomes extremely durable and can survive the opponents’ engagements. Meanwhile, our animal companion tears down their health bar bit by bit. I found the build to be quite successful and it is worth giving it a try yourself – not only because it gives us a chance to experience Beast Mastery in endgame content. The animal companion is our reliable source of damage and with that, also our greatest liability. When the opponent disposes of our pet, our win conditions are drastically reduced.
 
 </div>
@@ -85,3 +110,5 @@ This build forgoes a lot of offensive power by neglecting Marksmanship. Instead,
 ---
 
 Build links and saved allocations: [Warcraft Tavern’s Classic Hunter talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter/). Visual summaries created for this handbook.
+
+<script src="{{ '/assets/js/build-calculators.js' | relative_url }}" defer></script>

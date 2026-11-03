@@ -20,7 +20,10 @@ parent: "Build Library"
 
 [Open this build in the Warcraft Tavern talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A2222266677889aaaaadeeeeehmmmmmpB111112666668bbbeeeee)
 
-*The calculator link has been repaired to load all allocated talents correctly; final ranks are unchanged. [Original draft link](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A2222277666889aaaaaeeheeedmmmmmpB666668bbb111112eeeee).*
+<div class="hunter-calculator">
+<button type="button" class="hunter-calculator-toggle" data-calculator-url="https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter#?t=A2222266677889aaaaadeeeeehmmmmmpB111112666668bbbeeeee" aria-expanded="false" aria-controls="calculator-leveling-12" hidden>Open calculator here</button>
+<div id="calculator-leveling-12" class="hunter-calculator-panel" hidden></div>
+</div>
 
 </div>
 
@@ -33,3 +36,5 @@ parent: "Build Library"
 ---
 
 Build links and saved allocations: [Warcraft Tavern’s Classic Hunter talent calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/hunter/). Visual summaries created for this handbook.
+
+<script src="{{ '/assets/js/build-calculators.js' | relative_url }}" defer></script>
